@@ -4079,7 +4079,7 @@ input, select, textarea {
  /* controls the footer color in small size */
 		#footer {
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 1), rgba(255, 255, 255, 1)), url("../../images/bg.jpg");
 			background-size: auto,
  cover;
 			background-position: center,
